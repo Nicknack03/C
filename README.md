@@ -180,19 +180,6 @@ Enter a number: 153
 
 ---
 
-## Future Programs
-
-- File Handling
-- Structures
-- Linked List
-- Stack
-- Queue
-- Recursion
-- Searching Algorithms
-- Sorting Algorithms
-
----
-
 ## Author
 
 Nikhil
