@@ -182,11 +182,6 @@ Enter a number: 153
 
 ## Future Programs
 
-- Binary Search
-- Linear Search
-- Matrix Addition
-- Matrix Subtraction
-- String Operations
 - File Handling
 - Structures
 - Linked List
