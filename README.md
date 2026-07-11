@@ -2,13 +2,6 @@
 
 A collection of C programming programs covering fundamental concepts, data structures, algorithms, matrix operations, number programs, and pattern printing.
 
-This repository is useful for:
-
-- 🎓 College Practical Exams
-- 💻 C Programming Practice
-- 📚 Interview Preparation
-- 🚀 Beginners Learning C
-
 ---
 
 ## Project Structure
@@ -179,10 +172,6 @@ Enter a number: 153
 - Sorting
 
 ---
-
-## Author
-
-Nikhil
 
 ---
 
